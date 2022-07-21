@@ -1,4 +1,5 @@
-## Hi there 👋
+## Repositorio para el Diplomado de Desarrollo de Software
+# Móvil Básico
 
 <!--
 
