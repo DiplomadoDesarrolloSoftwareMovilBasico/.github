@@ -1,5 +1,5 @@
-## Repositorio para el Diplomado de Desarrollo de Software
-# Móvil Básico
+# Repositorio para el Diplomado de Desarrollo de Software
+## Móvil Básico
 
 <!--
 
